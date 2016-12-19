@@ -1,4 +1,4 @@
-# downloadyoutubelikedvideos
-Shell script for downloading your liked youtube videos.
+# downloadYoutubePlaylist
+Shell script for downloading youtube playlists to your computer.
 
-Simply put the script and text file in the folder you want to download to, then run the script (possibly as root? may not have to.)
+Simply put the script and text file in the folder you want to download to, open the .sh file and insert the desired playlist id, then run the script as root.
